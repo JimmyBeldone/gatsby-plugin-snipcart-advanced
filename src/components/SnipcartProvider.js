@@ -35,7 +35,7 @@ const SnipcartProvider = props => {
 };
 
 SnipcartProvider.defaultProps = {
-  version: '3.0.15',
+  version: '3.0.26',
   locales: {},
   defaultLang: 'en',
 };
